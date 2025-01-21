@@ -14,11 +14,11 @@ This project is a **Django-based Hotel Search Application** where users can sear
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/DhananjayTalekar/hotel_search.git
+   git clone https://github.com/DhananjayTalekar/HOTEL-FINDER.git
    
 2. **Navigate to the Project Directory**:
    ```bash
-   cd hotel_search
+   cd hotel_project
    
 3. **Set Up a Virtual Environment**:
    ```bash
